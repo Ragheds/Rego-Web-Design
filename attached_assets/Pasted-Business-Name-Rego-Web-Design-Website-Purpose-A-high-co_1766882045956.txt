@@ -1,0 +1,240 @@
+Business Name: Rego Web Design
+
+Website Purpose:
+A high-converting landing website that offers small businesses a no-risk website build. The visitor should understand in 5 seconds that:
+	•	The website is built for free first
+	•	They only pay if they like it
+	•	There is zero obligation
+
+Tone: confident, friendly, modern, simple
+Target audience: small/local businesses (restaurants, barbershops, stores, startups)
+
+⸻
+
+🎨 COLORS + STYLE (VERY IMPORTANT)
+
+Use this exactly:
+
+Primary color: #0F172A (dark navy / trust)
+Accent color: #2563EB (blue / CTA buttons)
+Secondary accent: #22C55E (green / “No Risk” highlights)
+Background: #F8FAFC (light clean gray)
+Text: #020617
+
+Font pair:
+	•	Headings: Inter
+	•	Body: Inter (keep it clean & modern)
+
+Style:
+	•	Rounded buttons
+	•	Soft shadows
+	•	Plenty of spacing
+	•	No clutter
+	•	Mobile-first
+
+⸻
+
+🧱 FULL SITE STRUCTURE (PAGE BY PAGE)
+
+1️⃣ HOMEPAGE (EXACT COPY)
+
+HERO SECTION
+
+Headline (H1):
+
+I Build Your Website First — You Only Pay If You Like It
+
+Subheadline:
+
+Modern websites for small businesses.
+No upfront cost. No contracts. No risk.
+
+Buttons:
+	•	Get My Free Website
+	•	See Real Examples
+
+Trust line under buttons:
+
+✔ Free preview • ✔ Fast delivery • ✔ Pay only if approved
+
+⸻
+
+HOW IT WORKS
+
+Title:
+
+How It Works
+
+Step 1:
+Tell Me About Your Business
+Fill out a quick form or message me.
+
+Step 2:
+I Build Your Website for Free
+You’ll receive a full preview before paying anything.
+
+Step 3:
+You Pay Only If You Like It
+Approve it → you pay.
+Don’t like it → you owe $0.
+
+⸻
+
+WHY THIS IS DIFFERENT
+
+Title:
+
+Why Choose This?
+
+Bullets:
+	•	No upfront payment
+	•	No pressure or contracts
+	•	Real business websites
+	•	Fast turnaround
+	•	Built directly by the designer
+
+Highlight box:
+
+If it’s not good enough to pay for, it’s free.
+
+⸻
+
+PORTFOLIO
+
+Title:
+
+Real Websites I’ve Built
+
+Show links:
+	•	mokanco.com
+	•	lazadessert.cafe
+	•	safaaarabianmarket.com
+	•	thebubblyaesthetic.com
+
+Text under:
+
+These are real businesses — not templates.
+
+⸻
+
+WHO THIS IS FOR
+
+Title:
+
+Perfect For
+
+Grid:
+	•	Barbershops 💈
+	•	Restaurants 🍽
+	•	Cafes ☕
+	•	Local stores 🏪
+	•	New businesses 🚀
+
+⸻
+
+PRICING
+
+Title:
+
+Pricing (Only After Approval)
+
+Text:
+
+You don’t pay anything until you approve the website.
+
+Pricing range:
+
+Most websites cost $300–$800, depending on features.
+
+Included:
+	•	Mobile-friendly design
+	•	Contact form
+	•	Fast loading
+	•	SEO-ready
+	•	Basic support
+
+⸻
+
+ABOUT
+
+Title:
+
+About Me
+
+Text:
+
+Hi, I’m Raghed Soliman.
+I build clean, modern websites for small businesses.
+I offer a free preview because I believe good work should speak for itself.
+
+⸻
+
+FINAL CTA
+
+Title:
+
+Ready to See Your Website?
+
+Button:
+
+Start Risk-Free
+
+Subtext:
+
+No upfront cost. No obligation.
+
+⸻
+
+2️⃣ FREE WEBSITE REQUEST PAGE
+
+FORM TITLE
+
+Request Your Free Website
+
+INTAKE FORM QUESTIONS (COPY EXACTLY)
+	1.	Business name
+	2.	Business email
+	3.	Phone number
+	4.	Type of business
+	5.	Do you already have a website? (Yes / No)
+	6.	What pages do you want? (Home, About, Services, Contact, Booking, Menu, etc.)
+	7.	Do you want online booking or forms?
+	8.	Any websites you like the style of? (Links)
+	9.	Business location (for Google Maps)
+	10.	Anything specific you want included?
+
+Submit button:
+
+Build My Website
+
+Confirmation message:
+
+Thanks! I’ll start building your website and contact you shortly.
+
+⸻
+
+3️⃣ EXAMPLES PAGE (Optional but Powerful)
+	•	Screenshot cards
+	•	Short description of each site
+	•	“Before / After” feel
+
+⸻
+
+4️⃣ CONTACT PAGE
+
+Simple:
+	•	Email
+	•	Phone
+	•	WhatsApp
+	•	Short message form
+
+⸻
+
+🧠 REPLIT AI PROMPT (PASTE THIS)
+
+Build a modern, mobile-friendly business website using the content above.
+Use clean layout, smooth scrolling, and clear CTAs.
+Focus on trust, simplicity, and conversions.
+Include form handling and responsive design.
+
+⸻
